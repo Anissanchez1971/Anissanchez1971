@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anissanchez1971
 - 👀 I’m interested in travel
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on Eurostat
+- 💞️ I’m looking to collaborate on Ergostat
 - 📫 How to reach me? Send message to anissanz1971@gmail.com 
 
 <!---
